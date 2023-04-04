@@ -1,2 +1,2 @@
 # vesting-contract
-ARS &amp; BTTC team vesting smart contract
+ARS &amp; Core team vesting smart contract
